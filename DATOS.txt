@@ -1,0 +1,10 @@
+1
+1;Aceite
+1;Aceite;Girasol
+1;Aceite;Girasol;2.5
+1;Aceite;Girasol;2.5;100
+2
+2;Leche
+2;Leche;La Vaquita
+2;Leche;La Vaquita;1.5
+2;Leche;La Vaquita;1.5;100
